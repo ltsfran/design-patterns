@@ -18,7 +18,7 @@ export abstract class House {
   get getWalls(): Floor {
     return this.walls;
   }
-
+  
   set setWalls(walls: Walls) {
     this.walls = walls;
   }
