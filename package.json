@@ -5,7 +5,8 @@
   "main": "webpack.config.js",
   "scripts": {
     "build": "rm -rf ./dist && webpack",
-    "watch": "webpack --watch"
+    "watch": "webpack --watch",
+    "pattern": "node process"
   },
   "keywords": [],
   "author": "",

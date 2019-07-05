@@ -4,4 +4,4 @@ Ejemplos Patrones de Diseño GOF desarrollados en typescript.
 
 # Command
 
-> npm run p -- FactoryPattern
+> npm run pattern -- FactoryPattern
